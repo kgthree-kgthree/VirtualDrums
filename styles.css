@@ -1,30 +1,25 @@
 body {
   text-align: center;
-  background-color: #3c415c;
+  background-color: #cdeeaa;
+  color: #523906;
 }
 
 h1 {
   font-size: 5rem;
-  /* color: #DBEDF3;  */
-  color: #d8e3e7;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #ff9a8c;
-
 }
 
 footer {
-  color: #DBEDF3;
   font-family: sans-serif;
 }
 
-a {
-  color: #DBEDF3;
-
+.footer-link {
+  color: #523906;
 }
 
-a:hover {
-  background-color: #b4a5a5;
-
+.footer-link:hover {
+  color:#81b214;
 }
 
 .w {
@@ -69,13 +64,9 @@ a:hover {
   opacity: 0.5;
 }
 
-.red {
-  color: red;
-}
-
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 10px solid #523906;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
